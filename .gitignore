@@ -1,2 +1,10 @@
+# Ignore model files and large videos
+*.pt
+*.mp4
+yolov8x.pt
+video.mp4
+
+# Python virtual env and caches
 myenv/
+__pycache__/myenv/
 output.mp4

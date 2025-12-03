@@ -24,8 +24,8 @@ The pipeline combines **YOLOv8**, **Norfair tracking**, **MediaPipe Hands**, and
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/vinod-polinati/statslane-asngmt.git
-cd statslane-asngmt
+git clone https://github.com/vinod-polinati/basketball-rally-detection.git
+cd basketball-rally-detection
 ```
 
 ---

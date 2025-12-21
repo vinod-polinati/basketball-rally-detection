@@ -24,8 +24,8 @@ The pipeline combines **YOLOv8**, **Norfair tracking**, **MediaPipe Hands**, and
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/vinod-polinati/basketball-rally-detection.git
-cd basketball-rally-detection
+git clone https://github.com/vinod-polinati/basketball-vision-analytics.git
+cd basketball-vision-analytics
 ```
 
 ---
